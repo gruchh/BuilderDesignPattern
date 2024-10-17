@@ -8,8 +8,5 @@ public class Main {
                 .brand(CarBrand.HONDA)
                 .build();
         System.out.println(car);
-
     }
-
-
 }
